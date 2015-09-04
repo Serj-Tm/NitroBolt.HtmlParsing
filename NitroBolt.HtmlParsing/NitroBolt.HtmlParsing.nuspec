@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>NitroBolt.HtmlParsing</id>
+    <version>1.0.0</version>
+    <title>NitroBolt.HtmlParsing</title>
+    <authors>Serj-Tm</authors>
+    <owners>Serj-Tm</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NitroBolt.HtmlParsing</description>
+    <copyright>Copyright © 2015</copyright>
+    <projectUrl>https://github.com/Serj-Tm/NitroBolt.HtmlParsing</projectUrl>
+    <tags>HTML Parsing Parser</tags>
+  </metadata>
+</package>
